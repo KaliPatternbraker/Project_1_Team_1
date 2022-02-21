@@ -27,7 +27,6 @@ Before running the application first install the following dependencies.
     pip installl pandas
     pip install questionary
     pip install sys
-
 ---
 
 ## *Usage*

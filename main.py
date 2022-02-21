@@ -40,7 +40,7 @@ user_ticker.set_index(["Ticker","Year","Quarter"], inplace=True)
 # checking to make sure ticker data is pulled 
 print(user_ticker.head()) 
 
-# Storing the z_score calculations for the chosen ticker in a variable 
+# Storing the z_score calculations for the chosen ticker in a variable...
 
 user_z_score = z_score_calculator(user_ticker)
 print(f"The quarterly altman z-score calculations for {ticker} are as follows: \n{user_z_score}")
