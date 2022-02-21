@@ -1,7 +1,7 @@
 # Project_1_Team_1
 
 ## Z-Score Calculator App using CSV Data pulled from "” Capital IQ
-**The goal of this project is to build a Z-Score calculator to automate the process of calculating Z-Scores, and to be able to calculate Z-Scores for many companies in a short amount of time. Then we take the
+Objective: The goal of this project is to build a Z-Score calculator to automate the process of calculating Z-Scores, and to be able to calculate Z-Scores for many companies in a short amount of time. Then we take the
 
 ----
 
